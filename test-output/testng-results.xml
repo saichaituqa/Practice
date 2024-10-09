@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-30T16:03:27 PDT" name="Default suite" finished-at="2024-09-30T16:03:27 PDT" duration-ms="461">
+    <groups>
+    </groups>
+    <test started-at="2024-09-30T16:03:27 PDT" name="Default test" finished-at="2024-09-30T16:03:27 PDT" duration-ms="461">
+      <class name="sampleReportTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:sampleReportTest@5386659f]" started-at="2024-09-30T16:03:26 PDT" name="bs" finished-at="2024-09-30T16:03:27 PDT" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method signature="createContactTe()[pri:0, instance:sampleReportTest@5386659f]" started-at="2024-09-30T16:03:27 PDT" name="createContactTe" finished-at="2024-09-30T16:03:27 PDT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTe -->
+        <test-method signature="createContactTes()[pri:0, instance:sampleReportTest@5386659f]" started-at="2024-09-30T16:03:27 PDT" name="createContactTes" finished-at="2024-09-30T16:03:27 PDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTes -->
+        <test-method signature="createContactTest()[pri:0, instance:sampleReportTest@5386659f]" started-at="2024-09-30T16:03:27 PDT" name="createContactTest" finished-at="2024-09-30T16:03:27 PDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="as()[pri:0, instance:sampleReportTest@5386659f]" started-at="2024-09-30T16:03:27 PDT" name="as" finished-at="2024-09-30T16:03:27 PDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- sampleReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
